@@ -31,7 +31,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "宝贝0",
+      name: "宝贝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oKUFF6qXcol0nzW3_dyxZbEQ9cV0",
       // 你想对他发送的模板消息的模板ID
@@ -44,11 +44,11 @@ export const config = {
       openUrl: "https://wangxinleo.cn"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "宝贝", 
+      id: "oKUFF6qXcol0nzW3_dyxZbEQ9cV0",
+      useTemplateId: "DEfGl8pdd9FkORlYLgTd3iDjlfTR3yKite-pHezs0As",
+      province: "北京",
+      city: "北京",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
@@ -82,7 +82,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohx12OO6VskYv03Kuf43ywIZVRM4puXhk",
+      id: "oKUFF6htkULLcEox8utuTCO5Y6HY",
     }, 
   ],
     
